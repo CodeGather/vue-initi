@@ -1,0 +1,23 @@
+{
+  "name": "vue-initi",
+  "version": "1.0.0",
+  "description": "这是一个通过Vue directive来实现在加载之前通过占位来保持布局状态的插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "placeholder",
+    "directive",
+    "v-initi",
+    "img",
+    "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeGather/vue-initi.git"
+  },
+  "author": "raohong07@163.com",
+  "license": "MIT"
+}
