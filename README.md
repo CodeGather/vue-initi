@@ -1,6 +1,8 @@
 # vue-initi
 这是一个通过Vue directive来实现在加载之前通过占位来保持布局状态的插件
 
+<a href="https://codegather.github.io/vue-initi/#/">点击查看demo演示</a>
+
 
 # Install
 Using `yarn` or `npm` to install `vue-initi`:
